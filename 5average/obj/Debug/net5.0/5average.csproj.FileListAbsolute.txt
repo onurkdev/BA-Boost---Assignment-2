@@ -1,0 +1,15 @@
+/Users/onurkurtulmus/Projects/5average/5average/bin/Debug/net5.0/5average.deps.json
+/Users/onurkurtulmus/Projects/5average/5average/bin/Debug/net5.0/5average.runtimeconfig.json
+/Users/onurkurtulmus/Projects/5average/5average/bin/Debug/net5.0/5average.runtimeconfig.dev.json
+/Users/onurkurtulmus/Projects/5average/5average/bin/Debug/net5.0/5average.dll
+/Users/onurkurtulmus/Projects/5average/5average/bin/Debug/net5.0/ref/5average.dll
+/Users/onurkurtulmus/Projects/5average/5average/bin/Debug/net5.0/5average.pdb
+/Users/onurkurtulmus/Projects/5average/5average/obj/Debug/net5.0/5average.csproj.AssemblyReference.cache
+/Users/onurkurtulmus/Projects/5average/5average/obj/Debug/net5.0/5average.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onurkurtulmus/Projects/5average/5average/obj/Debug/net5.0/5average.AssemblyInfoInputs.cache
+/Users/onurkurtulmus/Projects/5average/5average/obj/Debug/net5.0/5average.AssemblyInfo.cs
+/Users/onurkurtulmus/Projects/5average/5average/obj/Debug/net5.0/5average.csproj.CoreCompileInputs.cache
+/Users/onurkurtulmus/Projects/5average/5average/obj/Debug/net5.0/5average.dll
+/Users/onurkurtulmus/Projects/5average/5average/obj/Debug/net5.0/ref/5average.dll
+/Users/onurkurtulmus/Projects/5average/5average/obj/Debug/net5.0/5average.pdb
+/Users/onurkurtulmus/Projects/5average/5average/obj/Debug/net5.0/5average.genruntimeconfig.cache
